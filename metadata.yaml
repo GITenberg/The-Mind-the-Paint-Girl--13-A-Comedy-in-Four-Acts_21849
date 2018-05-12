@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6013
     wikipedia: http://en.wikipedia.org/wiki/Arthur_Wing_Pinero
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21849#The-Mind-the-Paint-Girl--13-A-Comedy-in-Four-Acts
 gutenberg_issued: '2007-06-18'
 gutenberg_type: Text
 identifiers:

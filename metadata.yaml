@@ -1,0 +1,32 @@
+_repo: The-Mind-the-Paint-Girl--13-A-Comedy-in-Four-Acts_21849
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 21849-h/images/frontcover.png
+creator:
+  author:
+    agent_name: Pinero, Arthur Wing
+    aliases:
+    - Pinero, Arthur W. (Arthur Wing)
+    - Pinero, Sir Arthur Wing
+    - Pinero, A. W. (Arthur Wing)
+    birthdate: 1855
+    deathdate: 1934
+    gutenberg_agent_id: '6013'
+    url: http://www.gutenberg.org/2009/agents/6013
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Wing_Pinero
+description: ''
+gutenberg_issued: '2007-06-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21849'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcsh 'English drama'
+- !lcc 'PR'
+title: 'The ''Mind the Paint'' Girl: A Comedy in Four Acts'
+url: http://www.gutenberg.org/ebooks/21849
